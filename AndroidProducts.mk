@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_vayu.mk
 
 COMMON_LUNCH_CHOICES := \
-    vayu-user \
-    vayu-userdebug \
-   vayu-eng
+    lineage_vayu-user \
+    lineage_vayu-userdebug \
+   lineage_vayu-eng
